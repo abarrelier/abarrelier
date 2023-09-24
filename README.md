@@ -4,7 +4,10 @@
 _By profession, I hold a degree in Geographic Sciences, and I have specialized in Geographic Information Systems in the environmental, ecological, and cultural fields. GIS marked my beginnings in programming. Currently, I am making my way into the field of web development!_
 
 🌐 **Experience:**
-- I have experience in environmental management, map creation and design, and spatial databases.
+- In environmental management, map creation and design, and spatial databases.
+
+👨‍💻 **Current Projects:**
+- Small-scale projects in Front-end and Back-end development.
 
 🚀 **Current Focus:**
 - Geographic Information Systems (GIS)
@@ -12,11 +15,8 @@ _By profession, I hold a degree in Geographic Sciences, and I have specialized i
 - Full Stack Development
 - Front-end and Back-end Technologies
 
-👨‍💻 **Current Projects:**
-- Small-scale projects in Front-end and Back-end development.
-
 🌿 **Fun Fact:**
-I'm a barista and I love to drink coffee!
+- I'm a barista and I love to drink coffee!
 
 🔧 **Tools & Technologies:**
 <div style="display: inline_block; margin-bottom: 10px;"><br>
